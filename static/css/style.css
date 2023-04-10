@@ -1,0 +1,6 @@
+body {
+    background-image: url("/static/images/yyy.jpg"), url("/static/images/ffffff.jpg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: left top, right top;
+    background-size: 50% 100%, 50% 100%;
+}

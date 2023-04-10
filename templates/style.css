@@ -1,0 +1,26 @@
+<style>
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+
+  label.white-text {
+    color: white;
+  }
+
+  .submit-btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
+I hope this helps!
+
+
+
+
+
